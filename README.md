@@ -56,8 +56,11 @@
 <img width="239" alt="Screen Shot 2023-10-17 at 00 25 09" src="https://github.com/Deekuh/Jarkom-Modul-2-E12-2023/assets/114421539/611998bf-0440-43c6-a190-a2eac18f0f12">
 
 ## Soal 1
+Yudhistira akan digunakan sebagai DNS Master, Werkudara sebagai DNS Slave, Arjuna merupakan Load Balancer yang terdiri dari beberapa Web Server yaitu Prabakusuma, Abimanyu, dan Wisanggeni. Buatlah topologi dengan pembagian seperti di soal. Folder topologi dapat diakses pada drive yang sudah disediakan pada platform praktikum jarkom.
+
+### Jawaban
 NakulaClient
-ping google.com -c 5
+##ping google.com -c 5
 
 <img width="719" alt="Screen Shot 2023-10-17 at 00 29 41" src="https://github.com/Deekuh/Jarkom-Modul-2-E12-2023/assets/114421539/832258a9-f1a3-4470-9eaf-b89846eaab89">
 
