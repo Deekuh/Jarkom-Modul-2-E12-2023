@@ -5,6 +5,8 @@
 - Beauty Valen Fajri (5025211227)
 
 ## Daftar Isi
+- [Topologi](#topologi)
+- Configure 
 - [Soal 1](#soal-1)
 - [Soal 2](#soal-2)
 - [Soal 3](#soal-3)
@@ -26,6 +28,7 @@
 - [Soal 19](#soal-19)
 - [Soal 20](#soal-20)
 
+## Topologi
 ## Soal 1
 ## Soal 2
 ## Soal 3
